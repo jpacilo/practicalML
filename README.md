@@ -3,7 +3,6 @@ Practical Machine Learning Course Project in Coursera JHU
 
 ## Hi there!
 
-
 This work is an attempt to predict the manner in which the people did the exercise in the following study.
 *Velloso, E.; Bulling, A.; Gellersen, H.; Ugulino, W.; Fuks, H. Qualitative Activity Recognition of Weight Lifting Exercises. Proceedings of 4th International Conference in Cooperation with SIGCHI (Augmented Human '13) . Stuttgart, Germany: ACM SIGCHI, 2013.*
 
